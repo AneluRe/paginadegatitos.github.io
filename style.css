@@ -1,0 +1,52 @@
+/*Selectores CSS*/
+/*As'i se escribe un comentario*/
+
+body{
+    color:#884EA0;
+    background-color: gainsboro;
+}
+
+p
+li,
+label {
+    color:palevioletred;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    font-size: 30px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Google Fonts*/
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*Tamaño fuente*/
+p, 
+ul,
+ol{
+    font-size: 20px;
+} 
+img {
+    /*Propiedad width = ancho*/
+    width: 250px;
+    border-style: ridge;
+    /*Estilos de bordes: dotted ridge double groove solid*/
+    border-width: 10px;
+    border-color: indianred;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 15px;
+}
+
+div{
+    background-color: white;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+}
